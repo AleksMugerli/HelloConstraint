@@ -45,3 +45,8 @@ To successfully connect an interface element via layout attributes, the target m
 ### 5. Efficient Component Modification Tactics
 **Correct Option: b. Use the view parameter and apply setBackgroundColor() directly on it.**  
 Modifying properties using the directly passed component reference provides better execution efficiency because it interacts immediately with the element that received the event, completely bypassing the need to search the layout tree structure manually.
+### 6. Screenshots 
+<img width="200" height="400" alt="Screenshot_20261102_000638_Hello_constraint" src="https://github.com/user-attachments/assets/4bfbe88e-326c-4420-a9ba-554eaeb3ab75" />
+<img width="400" height="200" alt="Screenshot_20261102_000646_Hello_constraint" src="https://github.com/user-attachments/assets/3e8f31fd-bdad-4e86-a02f-dc6e3d1d83b5" />
+<img width="200" height="400" alt="Screenshot_20261102_000655_Hello_constraint" src="https://github.com/user-attachments/assets/71cfe27b-fc15-4293-9737-2e3c6303c74d" />
+
